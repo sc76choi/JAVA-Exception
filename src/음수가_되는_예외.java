@@ -1,9 +1,9 @@
 
-public class À½¼ö°¡_µÇ´Â_¿¹¿Ü extends Exception {
+public class ìŒìˆ˜ê°€_ë˜ëŠ”_ì˜ˆì™¸ extends Exception {
 	@Override
 	public void printStackTrace() {
 //		// TODO Auto-generated method stub
 //		super.printStackTrace();
-		System.out.println("À½¼ö°¡ µÇ´Â ¿¹¿Ü°¡ ¹ß»ıÇÏ¿´½À´Ï´Ù.");
+		System.out.println("ìŒìˆ˜ê°€ ë˜ëŠ” ì˜ˆì™¸ë¥¼ ë§Œë‚¬ìŠµë‹ˆë‹¤..");
 	}
 }

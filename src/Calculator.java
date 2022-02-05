@@ -4,13 +4,13 @@ public class Calculator {
 				
 	}
 
-	public static int add(int x, int y) throws ÃµÀ»_³Ñ´Â_¿¹¿Ü, À½¼ö°¡_µÇ´Â_¿¹¿Ü {
+	public static int add(int x, int y) throws ìŒìˆ˜ê°€_ë˜ëŠ”_ì˜ˆì™¸, ì²œì„_ë„˜ëŠ”_ì˜ˆì™¸{
 		int result = x + y;
 		if(result > 1000) {
-			throw new ÃµÀ»_³Ñ´Â_¿¹¿Ü();
+			throw new ì²œì„_ë„˜ëŠ”_ì˜ˆì™¸();
 		}
 		if(result < 0) {
-			throw new À½¼ö°¡_µÇ´Â_¿¹¿Ü();
+			throw new ìŒìˆ˜ê°€_ë˜ëŠ”_ì˜ˆì™¸();
 		}
 		return result;
 	}

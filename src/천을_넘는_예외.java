@@ -1,10 +1,10 @@
 
-//public class ÃµÀ»_³Ñ´Â_¿¹¿Ü extends RuntimeException {
-public class ÃµÀ»_³Ñ´Â_¿¹¿Ü extends Exception {
+//public class Ãµï¿½ï¿½_ï¿½Ñ´ï¿½_ï¿½ï¿½ï¿½ï¿½ extends RuntimeException {
+public class ì²œì„_ë„˜ëŠ”_ì˜ˆì™¸ extends Exception {
 	@Override
 	public void printStackTrace() {
 //		// TODO Auto-generated method stub
 //		super.printStackTrace();
-		System.out.println("ÃµÀ» ³Ñ´Â ¿¹¿Ü°¡ ¹ß»ıÇÏ¿´½À´Ï´Ù.");
+		System.out.println("ì²œì„ ë„˜ëŠ” ì˜ˆì™¸ë¥¼ ë§Œë‚¬ìŠµë‹ˆë‹¤.");
 	}
 }

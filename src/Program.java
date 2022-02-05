@@ -10,10 +10,10 @@ public class Program {
 			System.out.printf("sub : %d\n", result);
 			result = Calculator.multi(3, 4);
 			System.out.printf("multi : %d\n", result);
-		} catch (ÃµÀ»_³Ñ´Â_¿¹¿Ü | À½¼ö°¡_µÇ´Â_¿¹¿Ü e) {
+		} catch (ìŒìˆ˜ê°€_ë˜ëŠ”_ì˜ˆì™¸  | ì²œì„_ë„˜ëŠ”_ì˜ˆì™¸ e) {
 			e.printStackTrace();
 		} catch (Exception e) {
-			System.out.println("¿À·ù°¡ ÀÖ½À´Ï´Ù.");
+			System.out.println("ë‹¤ë¥¸ ì˜ˆì™¸ê°€ ë°œìƒí–ˆìŠµë‹ˆë‹¤..");
 		} finally {
 			System.out.println("\nEnd.");
 		}
